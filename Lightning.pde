@@ -13,7 +13,7 @@ void setup(){
 }
 int coordx = 300;
 int coordy = 450;
-int x = 10;
+int x = 5;
 int eyex = 5;
 int eyey = -2;
 int mouthx = 5;
